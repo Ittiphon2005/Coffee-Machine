@@ -12,3 +12,4 @@
 ✅ ปุ่ม "เติมวัตถุดิบ" สำหรับรีเซ็ตค่าวัตถุดิบ  
 
 ---
+![image](https://github.com/user-attachments/assets/c374deb0-f731-42c4-9e74-f6baf1adcb5a)
